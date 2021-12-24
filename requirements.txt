@@ -1,2 +1,4 @@
 numpy==1.21.5
 binarytree==6.3.0
+intervaltree==3.1.0
+portion==2.2.0
